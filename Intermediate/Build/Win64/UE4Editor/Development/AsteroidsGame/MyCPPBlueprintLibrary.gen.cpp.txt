@@ -1,5 +1,5 @@
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\GitHub\Astros\Source\AsteroidsGame/MyCPPBlueprintLibrary.h
-c:\github\astros\intermediate\build\win64\ue4editor\inc\asteroidsgame\MyCPPBlueprintLibrary.generated.h
+C:\GitHub\AstroGame\AstroGameV1\Source\AsteroidsGame/MyCPPBlueprintLibrary.h
+c:\github\astrogame\astrogamev1\intermediate\build\win64\ue4editor\inc\asteroidsgame\MyCPPBlueprintLibrary.generated.h

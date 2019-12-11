@@ -15,7 +15,7 @@ class APlayerController;
 #endif
 #define ASTEROIDSGAME_MyCPPBlueprintLibrary_generated_h
 
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_RPC_WRAPPERS \
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execIsInView) \
 	{ \
@@ -29,7 +29,7 @@ class APlayerController;
 	}
 
 
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execIsInView) \
 	{ \
@@ -43,7 +43,7 @@ class APlayerController;
 	}
 
 
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_INCLASS_NO_PURE_DECLS \
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMyCPPBlueprintLibrary(); \
 	friend struct Z_Construct_UClass_UMyCPPBlueprintLibrary_Statics; \
@@ -52,7 +52,7 @@ public: \
 	DECLARE_SERIALIZER(UMyCPPBlueprintLibrary)
 
 
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_INCLASS \
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesUMyCPPBlueprintLibrary(); \
 	friend struct Z_Construct_UClass_UMyCPPBlueprintLibrary_Statics; \
@@ -61,7 +61,7 @@ public: \
 	DECLARE_SERIALIZER(UMyCPPBlueprintLibrary)
 
 
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_STANDARD_CONSTRUCTORS \
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMyCPPBlueprintLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMyCPPBlueprintLibrary) \
@@ -74,7 +74,7 @@ private: \
 public:
 
 
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_ENHANCED_CONSTRUCTORS \
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMyCPPBlueprintLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -87,26 +87,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMyCPPBlueprintLibrary); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMyCPPBlueprintLibrary)
 
 
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_PRIVATE_PROPERTY_OFFSET
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_13_PROLOG
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_GENERATED_BODY_LEGACY \
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_PRIVATE_PROPERTY_OFFSET
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_13_PROLOG
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_PRIVATE_PROPERTY_OFFSET \
-	Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_RPC_WRAPPERS \
-	Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_INCLASS \
-	Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_STANDARD_CONSTRUCTORS \
+	AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_PRIVATE_PROPERTY_OFFSET \
+	AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_RPC_WRAPPERS \
+	AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_INCLASS \
+	AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_GENERATED_BODY \
+#define AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_PRIVATE_PROPERTY_OFFSET \
-	Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_INCLASS_NO_PURE_DECLS \
-	Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_ENHANCED_CONSTRUCTORS \
+	AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_PRIVATE_PROPERTY_OFFSET \
+	AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_INCLASS_NO_PURE_DECLS \
+	AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -114,7 +114,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ASTEROIDSGAME_API UClass* StaticClass<class UMyCPPBlueprintLibrary>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Astros_Source_AsteroidsGame_MyCPPBlueprintLibrary_h
+#define CURRENT_FILE_ID AstroGameV1_Source_AsteroidsGame_MyCPPBlueprintLibrary_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

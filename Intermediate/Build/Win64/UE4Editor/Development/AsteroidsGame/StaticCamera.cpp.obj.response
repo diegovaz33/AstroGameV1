@@ -498,9 +498,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame
-/I C:\GitHub\Astros\Source
-/I C:\GitHub\Astros\Source\AsteroidsGame
+/I C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame
+/I C:\GitHub\AstroGame\AstroGameV1\Source
+/I C:\GitHub\AstroGame\AstroGameV1\Source\AsteroidsGame
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -530,12 +530,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\GitHub\Astros\Intermediate\Build\Win64\AsteroidsGameEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\GitHub\Astros\Intermediate\Build\Win64\AsteroidsGameEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\GitHub\Astros\Intermediate\Build\Win64\AsteroidsGameEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\GitHub\Astros\Source\AsteroidsGame\StaticCamera.cpp"
-/FI"C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h"
-/Fo"C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\StaticCamera.cpp.obj"
+/FI"C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\AsteroidsGameEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\AsteroidsGameEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\AsteroidsGameEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\GitHub\AstroGame\AstroGameV1\Source\AsteroidsGame\StaticCamera.cpp"
+/FI"C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h"
+/Fo"C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\StaticCamera.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,5 +1,5 @@
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
-c:\github\astros\source\asteroidsgame\ParentWeapon.h
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentWeapon.generated.h
-c:\github\astros\source\asteroidsgame\ParentBullet.h
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentBullet.generated.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
+c:\github\astrogame\astrogamev1\source\asteroidsgame\ParentWeapon.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentWeapon.generated.h
+c:\github\astrogame\astrogamev1\source\asteroidsgame\ParentBullet.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentBullet.generated.h

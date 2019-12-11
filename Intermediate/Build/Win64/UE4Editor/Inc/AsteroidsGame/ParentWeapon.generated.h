@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ASTEROIDSGAME_ParentWeapon_generated_h
 
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_RPC_WRAPPERS \
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execStopFiringWeapon) \
 	{ \
@@ -40,7 +40,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execStopFiringWeapon) \
 	{ \
@@ -67,7 +67,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_INCLASS_NO_PURE_DECLS \
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAParentWeapon(); \
 	friend struct Z_Construct_UClass_AParentWeapon_Statics; \
@@ -76,7 +76,7 @@ public: \
 	DECLARE_SERIALIZER(AParentWeapon)
 
 
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_INCLASS \
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesAParentWeapon(); \
 	friend struct Z_Construct_UClass_AParentWeapon_Statics; \
@@ -85,7 +85,7 @@ public: \
 	DECLARE_SERIALIZER(AParentWeapon)
 
 
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_STANDARD_CONSTRUCTORS \
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AParentWeapon(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AParentWeapon) \
@@ -98,7 +98,7 @@ private: \
 public:
 
 
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_ENHANCED_CONSTRUCTORS \
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AParentWeapon(AParentWeapon&&); \
@@ -109,26 +109,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AParentWeapon); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AParentWeapon)
 
 
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_PRIVATE_PROPERTY_OFFSET
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_11_PROLOG
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_GENERATED_BODY_LEGACY \
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_PRIVATE_PROPERTY_OFFSET
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_11_PROLOG
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Astros_Source_AsteroidsGame_ParentWeapon_h_14_PRIVATE_PROPERTY_OFFSET \
-	Astros_Source_AsteroidsGame_ParentWeapon_h_14_RPC_WRAPPERS \
-	Astros_Source_AsteroidsGame_ParentWeapon_h_14_INCLASS \
-	Astros_Source_AsteroidsGame_ParentWeapon_h_14_STANDARD_CONSTRUCTORS \
+	AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_PRIVATE_PROPERTY_OFFSET \
+	AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_RPC_WRAPPERS \
+	AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_INCLASS \
+	AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Astros_Source_AsteroidsGame_ParentWeapon_h_14_GENERATED_BODY \
+#define AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Astros_Source_AsteroidsGame_ParentWeapon_h_14_PRIVATE_PROPERTY_OFFSET \
-	Astros_Source_AsteroidsGame_ParentWeapon_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	Astros_Source_AsteroidsGame_ParentWeapon_h_14_INCLASS_NO_PURE_DECLS \
-	Astros_Source_AsteroidsGame_ParentWeapon_h_14_ENHANCED_CONSTRUCTORS \
+	AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_PRIVATE_PROPERTY_OFFSET \
+	AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_INCLASS_NO_PURE_DECLS \
+	AstroGameV1_Source_AsteroidsGame_ParentWeapon_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -136,7 +136,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ASTEROIDSGAME_API UClass* StaticClass<class AParentWeapon>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Astros_Source_AsteroidsGame_ParentWeapon_h
+#define CURRENT_FILE_ID AstroGameV1_Source_AsteroidsGame_ParentWeapon_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

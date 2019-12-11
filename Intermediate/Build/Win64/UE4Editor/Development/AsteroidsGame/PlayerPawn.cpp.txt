@@ -1,8 +1,8 @@
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
-c:\github\astros\source\asteroidsgame\PlayerPawn.h
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\PlayerPawn.generated.h
-c:\github\astros\source\asteroidsgame\ParentGameInstance.h
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentGameInstance.generated.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
+c:\github\astrogame\astrogamev1\source\asteroidsgame\PlayerPawn.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\PlayerPawn.generated.h
+c:\github\astrogame\astrogamev1\source\asteroidsgame\ParentGameInstance.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentGameInstance.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h

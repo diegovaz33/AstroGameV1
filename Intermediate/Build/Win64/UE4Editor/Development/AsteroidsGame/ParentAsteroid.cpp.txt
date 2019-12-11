@@ -1,12 +1,12 @@
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
-c:\github\astros\source\asteroidsgame\ParentAsteroid.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
+c:\github\astrogame\astrogamev1\source\asteroidsgame\ParentAsteroid.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentAsteroid.generated.h
-c:\github\astros\source\asteroidsgame\ParentBullet.h
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentBullet.generated.h
-c:\github\astros\source\asteroidsgame\PlayerPawn.h
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\PlayerPawn.generated.h
-c:\github\astros\source\asteroidsgame\MyCPPBlueprintLibrary.h
-C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\MyCPPBlueprintLibrary.generated.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentAsteroid.generated.h
+c:\github\astrogame\astrogamev1\source\asteroidsgame\ParentBullet.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\ParentBullet.generated.h
+c:\github\astrogame\astrogamev1\source\asteroidsgame\PlayerPawn.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\PlayerPawn.generated.h
+c:\github\astrogame\astrogamev1\source\asteroidsgame\MyCPPBlueprintLibrary.h
+C:\GitHub\AstroGame\AstroGameV1\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\MyCPPBlueprintLibrary.generated.h

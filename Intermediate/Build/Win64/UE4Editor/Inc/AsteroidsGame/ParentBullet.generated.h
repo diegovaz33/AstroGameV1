@@ -16,7 +16,7 @@ struct FHitResult;
 #endif
 #define ASTEROIDSGAME_ParentBullet_generated_h
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_RPC_WRAPPERS \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnBulletOverlap) \
 	{ \
@@ -33,7 +33,7 @@ struct FHitResult;
 	}
 
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnBulletOverlap) \
 	{ \
@@ -50,7 +50,7 @@ struct FHitResult;
 	}
 
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_INCLASS_NO_PURE_DECLS \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAParentBullet(); \
 	friend struct Z_Construct_UClass_AParentBullet_Statics; \
@@ -59,7 +59,7 @@ public: \
 	DECLARE_SERIALIZER(AParentBullet)
 
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_INCLASS \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesAParentBullet(); \
 	friend struct Z_Construct_UClass_AParentBullet_Statics; \
@@ -68,7 +68,7 @@ public: \
 	DECLARE_SERIALIZER(AParentBullet)
 
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_STANDARD_CONSTRUCTORS \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AParentBullet(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AParentBullet) \
@@ -81,7 +81,7 @@ private: \
 public:
 
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_ENHANCED_CONSTRUCTORS \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AParentBullet(AParentBullet&&); \
@@ -92,30 +92,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AParentBullet); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AParentBullet)
 
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_PRIVATE_PROPERTY_OFFSET \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__m_Damage() { return STRUCT_OFFSET(AParentBullet, m_Damage); } \
 	FORCEINLINE static uint32 __PPO__m_DestroyOnHit() { return STRUCT_OFFSET(AParentBullet, m_DestroyOnHit); }
 
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_9_PROLOG
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_GENERATED_BODY_LEGACY \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_9_PROLOG
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Astros_Source_AsteroidsGame_ParentBullet_h_12_PRIVATE_PROPERTY_OFFSET \
-	Astros_Source_AsteroidsGame_ParentBullet_h_12_RPC_WRAPPERS \
-	Astros_Source_AsteroidsGame_ParentBullet_h_12_INCLASS \
-	Astros_Source_AsteroidsGame_ParentBullet_h_12_STANDARD_CONSTRUCTORS \
+	AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_PRIVATE_PROPERTY_OFFSET \
+	AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_RPC_WRAPPERS \
+	AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_INCLASS \
+	AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Astros_Source_AsteroidsGame_ParentBullet_h_12_GENERATED_BODY \
+#define AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Astros_Source_AsteroidsGame_ParentBullet_h_12_PRIVATE_PROPERTY_OFFSET \
-	Astros_Source_AsteroidsGame_ParentBullet_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	Astros_Source_AsteroidsGame_ParentBullet_h_12_INCLASS_NO_PURE_DECLS \
-	Astros_Source_AsteroidsGame_ParentBullet_h_12_ENHANCED_CONSTRUCTORS \
+	AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_PRIVATE_PROPERTY_OFFSET \
+	AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_INCLASS_NO_PURE_DECLS \
+	AstroGameV1_Source_AsteroidsGame_ParentBullet_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -123,7 +123,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ASTEROIDSGAME_API UClass* StaticClass<class AParentBullet>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Astros_Source_AsteroidsGame_ParentBullet_h
+#define CURRENT_FILE_ID AstroGameV1_Source_AsteroidsGame_ParentBullet_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
