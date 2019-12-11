@@ -1,0 +1,3 @@
+C:\GitHub\Astros\Source\AsteroidsGame\AsteroidsGame.Build.cs
+C:\GitHub\Astros\Source\AsteroidsGame.Target.cs
+C:\GitHub\Astros\Source\AsteroidsGameEditor.Target.cs

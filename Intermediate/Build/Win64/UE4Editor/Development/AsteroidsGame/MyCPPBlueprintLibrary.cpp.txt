@@ -1,0 +1,3 @@
+C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Development\AsteroidsGame\Definitions.AsteroidsGame.h
+c:\github\astros\source\asteroidsgame\MyCPPBlueprintLibrary.h
+C:\GitHub\Astros\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidsGame\MyCPPBlueprintLibrary.generated.h
